@@ -1,4 +1,4 @@
-## #100DaysOfCode
+## #100DaysOfCode, Day 3
 
 ## 3. The cliche Weather App with React
 
